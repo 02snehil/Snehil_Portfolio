@@ -16,12 +16,14 @@ const Home = () =>{
                        FullStack Developer
                     </h1>
 
-                    <p className="home__description">Lorem ipsum,
-                     dolor sit amet consectetur adipisicing elit.
-                      Architecto aliquam possimus, eveniet natus
-                       illum commodi sint cupiditate alias non,
-                        explicabo, nam veniam ea! Iste quibusdam 
-                        sunt qui eveniet rerum reprehenderit?
+                    <p className="home__description">
+                    Hello! I'm Snehil Chourasiya, a recent graduate in Electronics 
+                    and Communication Engineering with a keen interest in technology. 
+                    Currently interning at CredMarg Technologies Pvt. Ltd., I'm gaining 
+                    valuable industry experience. Additionally, I completed a rigorous 
+                    6-month full-stack Java course at Sathya Technologies, Hyderabad. 
+                    With a solid academic background and practical skills, I'm excited 
+                    to embark on new challenges and contribute to innovative projects.
                     </p>
 
                     <Link to='/about' className="button">
